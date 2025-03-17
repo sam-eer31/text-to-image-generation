@@ -94,7 +94,7 @@ Before running the project, ensure your system meets the following minimum requi
 
 To run this project on Google Colab, simply click the button below:  
 
-[![Open in Colab](https://colab.research.google.com/drive/1Ry2Lb4QwdftwtMZ4ET0VIgAMDTM41fe0?usp=sharing)]
+![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ry2Lb4QwdftwtMZ4ET0VIgAMDTM41fe0?usp=sharing)  
 
 
 
