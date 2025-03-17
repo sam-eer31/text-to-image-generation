@@ -65,6 +65,20 @@ pipe = StableDiffusionPipeline.from_pretrained(
 *This will allow you to generate more realistic images while maintaining the same workflow. 🚀*
 
 
+## 🚀 Run on Google Colab  
+
+To run this project on Google Colab, simply click the button below:  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ry2Lb4QwdftwtMZ4ET0VIgAMDTM41fe0?usp=sharing)  
+
+
+### Steps:
+1️⃣ Click the **"Open in Colab"** button above.  
+2️⃣ Run each cell sequentially.  
+3️⃣ Lunch Gradio Interface
+4️⃣ Generate Images
+
+
 ## ⚙️ Minimum Requirements
 
 Before running the project, ensure your system meets the following minimum requirements:
@@ -89,22 +103,6 @@ Before running the project, ensure your system meets the following minimum requi
 - **CUDA:** 11.8 or later (For GPU acceleration)
 
 - **PyTorch:** Installed with GPU support (torch and torchvision)
-
-## 🚀 Run on Google Colab  
-
-To run this project on Google Colab, simply click the button below:  
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ry2Lb4QwdftwtMZ4ET0VIgAMDTM41fe0?usp=sharing)  
-
-
-
-
-### Steps:
-1️⃣ Click the **"Open in Colab"** button above.  
-2️⃣ Run each cell sequentially.  
-3️⃣ Lunch Gradio Interface
-4️⃣ Generate Images
-
 
 
 ## 📌 Future Enhancements  
