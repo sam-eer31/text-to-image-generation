@@ -75,10 +75,8 @@ To run this project on Google Colab, simply click the button below:
 ### Steps:
 1️⃣ Click the **"Open in Colab"** button above.  
 2️⃣ Run each cell sequentially.  
-3️⃣ Lunch Gradio Interface.
- Run each cell sequentially.  
-3️⃣ Lunch Gradio Interface.
-4️⃣ Generate
+3️⃣ Lunch Gradio Interface. 
+3️⃣ Generate Images.
 
 
 ## ⚙️ Minimum Requirements
