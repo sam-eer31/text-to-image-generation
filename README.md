@@ -90,6 +90,20 @@ Before running the project, ensure your system meets the following minimum requi
 
 - **PyTorch:** Installed with GPU support (torch and torchvision)
 
+## 🚀 Run on Google Colab  
+
+To run this project on Google Colab, simply click the button below:  
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]  
+
+
+
+### Steps:
+1️⃣ Click the **"Open in Colab"** button above.  
+2️⃣ Run each cell sequentially.  
+3️⃣ Lunch Gradio Interface
+4️⃣ Generate Images
+
 
 
 ## 📌 Future Enhancements  
