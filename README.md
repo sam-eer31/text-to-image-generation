@@ -69,7 +69,7 @@ pipe = StableDiffusionPipeline.from_pretrained(
 
 To run this project on Google Colab, simply click the button below:  
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ry2Lb4QwdftwtMZ4ET0VIgAMDTM41fe0?usp=sharing)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ry2Lb4QwdftwtMZ4ET0VIgAMDTM41fe0?usp=sharing)
 
 
 ### 📖 **Steps to Run:**
@@ -79,6 +79,7 @@ To run this project on Google Colab, simply click the button below:
 4️⃣ Open the Gradio link and enter a text prompt to generate an image.  
 5️⃣ Download the generated image if needed.  
 
+📌 **Tip:** Gradio provides a **public shareable link**, so you can access the interface from any device!
 
 
 ## ⚙️ Minimum Requirements
