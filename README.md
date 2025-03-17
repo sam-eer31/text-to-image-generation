@@ -38,7 +38,7 @@ This repository contains a **Gradio-based web application** for generating high-
 ## 📸 Example Prompts  
 - **"A beautiful girl with pink hair"**  
 - **"A cute cat wearing a hat"**  
-- **"a realistic red la ferrari, cinematic, photorealism"**  
+- **"A realistic red la ferrari, cinematic, photorealism"**  
 
 ## 🔥 Demo  
 <img src="https://github.com/user-attachments/assets/423377e7-cbf8-4481-acd7-722f4ced6d56" width="300">
