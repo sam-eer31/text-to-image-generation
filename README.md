@@ -25,11 +25,11 @@ This repository contains a **Gradio-based web application** for generating high-
    ```  
 2. Install dependencies:  
    ```bash
-   run install.bat
+   start install.bat
    ```
 3. Run the application:  
    ```bash
-   run launch.bat
+   start launch.bat
    #or
    python txt_to_img.py
    ```  
