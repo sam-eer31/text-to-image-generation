@@ -72,11 +72,14 @@ To run this project on Google Colab, simply click the button below:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ry2Lb4QwdftwtMZ4ET0VIgAMDTM41fe0?usp=sharing)  
 
 
-### Steps:
+### 📖 **Steps to Run:**
 1️⃣ Click the **"Open in Colab"** button above.  
 2️⃣ Run each cell sequentially.  
-3️⃣ Lunch Gradio Interface.
-4️⃣ Generate Images.
+3️⃣ The final cell will launch a **Gradio interface** with a public link.  
+4️⃣ Open the Gradio link and enter a text prompt to generate an image.  
+5️⃣ Download the generated image if needed.  
+
+📌 **Tip:** Gradio provides a **public shareable link**, so you can access the interface from any device!
 
 
 ## ⚙️ Minimum Requirements
