@@ -53,7 +53,7 @@ If you prefer to use a different model, you can load the **Realistic Vision V5.1
 
 ```python
 # Load the fine-tuned SD model (Realistic Vision V5.1)
-pipeline = StableDiffusionPipeline.from_pretrained(
+pipe = StableDiffusionPipeline.from_pretrained(
     "SG161222/Realistic_Vision_V5.1_noVAE",
     torch_dtype=torch.float16
 ).to("cuda")  # Use GPU
