@@ -79,7 +79,7 @@ To run this project on Google Colab, simply click the button below:
 4️⃣ Open the Gradio link and enter a text prompt to generate an image.  
 5️⃣ Download the generated image if needed.  
 
-📌 **Tip:** *Gradio provides a **public shareable link**, so you can access the interface from any device!*
+📌* **Tip:** Gradio provides a **public shareable link**, so you can access the interface from any device!*
 
 
 ## ⚙️ Minimum Requirements
