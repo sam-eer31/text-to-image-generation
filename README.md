@@ -15,7 +15,7 @@ This repository contains a **Gradio-based web application** for generating high-
 ### Prerequisites  
 - Python 3.8+  
 - CUDA-compatible GPU (for best performance)  
-- Dependencies: `torch`, `diffusers`, `gradio`, `opencv-python`, `numpy`, `transformers`, `Pillow`, `accelerate`, `safetensors`
+- Dependencies: `torch`, `torchvision`, `diffusers`, `gradio`, `opencv-python`, `numpy`, `transformers`, `Pillow`, `accelerate`, `safetensors`
 
 ### Steps to Run  
 1. Clone the repository:  
@@ -66,26 +66,26 @@ pipe = StableDiffusionPipeline.from_pretrained(
 
 Before running the project, ensure your system meets the following minimum requirements:
 
-Hardware Requirements
+**Hardware Requirements**
 
-- GPU: NVIDIA GPU with at least 8GB VRAM (Recommended: RTX 3060 / 3080 / 4090 or higher)
+- **GPU:** NVIDIA GPU with at least 8GB VRAM (Recommended: RTX 3060 / 3080 / 4090 or higher)
 
-- CPU: Intel i5 8th Gen / AMD Ryzen 5 or higher
+- **CPU:** Intel i5 8th Gen / AMD Ryzen 5 or higher
 
-- RAM: Minimum 16GB (Recommended: 32GB for better performance)
+- **RAM:** Minimum 16GB (Recommended: 32GB for better performance)
 
-- Storage: At least 10GB of free space (Model weights + dependencies)
+- **Storage:** At least 10GB of free space (Model weights + dependencies)
 
 
-Software Requirements
+**Software Requirements**
 
-- OS: Windows 10/11, Ubuntu 20.04+
+- **OS:** Windows 10/11, Ubuntu 20.04+
 
-- Python: 3.8 or later
+- **Python:** 3.8 or later
 
-- CUDA: 11.8 or later (For GPU acceleration)
+- **CUDA:** 11.8 or later (For GPU acceleration)
 
-- PyTorch: Installed with GPU support (torch and torchvision)
+- **PyTorch:** Installed with GPU support (torch and torchvision)
 
 
 
