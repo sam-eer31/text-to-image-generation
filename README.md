@@ -33,7 +33,10 @@ This repository contains a **Gradio-based web application** for generating high-
    #or
    python txt_to_img.py
    ```  
-4. Open the Gradio interface in your browser.  
+4. Open the Gradio interface in your browser.
+   ```bash
+   start http://127.0.0.1:7860/
+   ```
 
 ## 📸 Example Prompts  
 - **"A beautiful girl with pink hair"**  
