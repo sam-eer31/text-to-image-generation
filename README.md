@@ -15,7 +15,7 @@ This repository contains a **Gradio-based web application** for generating high-
 ### Prerequisites  
 - Python 3.8+  
 - CUDA-compatible GPU (for best performance)  
-- Dependencies: `torch`, `diffusers`, `gradio`, `PIL`, `opencv-python`, `numpy`, `transformers`, `Pillow`, `accelerate`, `safetensors`
+- Dependencies: `torch`, `diffusers`, `gradio`, `opencv-python`, `numpy`, `transformers`, `Pillow`, `accelerate`, `safetensors`
 
 ### Steps to Run  
 1. Clone the repository:  
